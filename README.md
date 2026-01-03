@@ -26,7 +26,7 @@ This repository contains the source code for chat.io, a real-time chat applicati
 1. Clone the repository:
 
    ````bash
-   git clone https://github.com/Younesfdj/Chat.io.git
+   git clone https://github.com/ag3617502/chat.io.git
 
 2. Install the dependencies:
 
